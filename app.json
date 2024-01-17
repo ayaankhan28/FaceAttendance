@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-router",
+      "react-native-vision-camera"
+    ],
+    "name": "ReactNative",
+    "slug": "ReactNative"
+  }
+}
